@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>292720544306-stqq0hf6vg8flcv2k54jod7lv3n381iu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.292720544306-stqq0hf6vg8flcv2k54jod7lv3n381iu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBs-r7COP4CC0_8dbSi9b6pshnMvP5UjTQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>292720544306</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.catAdam.res1-1</string>
+	<key>PROJECT_ID</key>
+	<string>restaurant1-47d40</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurant1-47d40.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:292720544306:ios:f664e90b50852ef35e0a2b</string>
+	<key>DATABASE_URL</key>
+	<string>https://restaurant1-47d40.firebaseio.com</string>
+</dict>
+</plist>
